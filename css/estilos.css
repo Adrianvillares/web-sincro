@@ -1,0 +1,13 @@
+div.miCarrusel{
+    max-height: 500px;
+}
+i.miAmazon{
+    font-size: 50px;
+    margin: 100px 600px;
+    color:blue;
+}
+button.btn-danger{
+    margin: 0px 600px;
+    color: yellow;
+    border-radius: 150px;
+}
